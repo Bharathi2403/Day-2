@@ -1,0 +1,10 @@
+4)
+a. Number
+b. Decimal value
+c. String value
+d. Boolean value
+e. Null value
+f. Undefined value
+g. Array value
+h. Object 
+i. Number
